@@ -1,7 +1,7 @@
 
 # 🎬 Movie Booking System
 
-A Movie Booking System that allows users to browse movies, view showtimes, select seats , book tickets online .  
+A Movie Booking System that allows users to browse movies, view showtimes, select seats , book tickets online.  
 The system is designed to simplify the movie ticket booking process for both users and administrators.
 
 ---
@@ -12,7 +12,8 @@ The system is designed to simplify the movie ticket booking process for both use
 - Browse available movies
 - View movie details and showtimes
 - Select seats
-- Book movie tickets
+- Book movie tickets and cancel booking
+- Purchase movie tickets directly
 - View booking confirmation
 
 ### Admin Features
